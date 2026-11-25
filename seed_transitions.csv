@@ -1,0 +1,76 @@
+﻿from_run,to_run,from_action,to_action,cases,different_action,authority_switched
+42 (primary),1042,auto-allow,auto-allow,248,0,0
+42 (primary),1042,auto-allow,soft intervention,19,1,0
+42 (primary),1042,auto-allow,quarantine,1,1,1
+42 (primary),1042,auto-allow,auto-removal,0,1,0
+42 (primary),1042,auto-allow,human review,35,1,1
+42 (primary),1042,soft intervention,auto-allow,4,1,0
+42 (primary),1042,soft intervention,soft intervention,59,0,0
+42 (primary),1042,soft intervention,quarantine,1,1,1
+42 (primary),1042,soft intervention,auto-removal,0,1,0
+42 (primary),1042,soft intervention,human review,50,1,1
+42 (primary),1042,quarantine,auto-allow,2,1,1
+42 (primary),1042,quarantine,soft intervention,3,1,1
+42 (primary),1042,quarantine,quarantine,25,0,0
+42 (primary),1042,quarantine,auto-removal,22,1,1
+42 (primary),1042,quarantine,human review,20,1,0
+42 (primary),1042,auto-removal,auto-allow,0,1,0
+42 (primary),1042,auto-removal,soft intervention,2,1,0
+42 (primary),1042,auto-removal,quarantine,25,1,1
+42 (primary),1042,auto-removal,auto-removal,108,0,0
+42 (primary),1042,auto-removal,human review,16,1,1
+42 (primary),1042,human review,auto-allow,37,1,1
+42 (primary),1042,human review,soft intervention,75,1,1
+42 (primary),1042,human review,quarantine,22,1,0
+42 (primary),1042,human review,auto-removal,14,1,1
+42 (primary),1042,human review,human review,208,0,0
+42 (primary),2042,auto-allow,auto-allow,259,0,0
+42 (primary),2042,auto-allow,soft intervention,8,1,0
+42 (primary),2042,auto-allow,quarantine,2,1,1
+42 (primary),2042,auto-allow,auto-removal,0,1,0
+42 (primary),2042,auto-allow,human review,34,1,1
+42 (primary),2042,soft intervention,auto-allow,9,1,0
+42 (primary),2042,soft intervention,soft intervention,33,0,0
+42 (primary),2042,soft intervention,quarantine,5,1,1
+42 (primary),2042,soft intervention,auto-removal,1,1,0
+42 (primary),2042,soft intervention,human review,66,1,1
+42 (primary),2042,quarantine,auto-allow,0,1,1
+42 (primary),2042,quarantine,soft intervention,4,1,1
+42 (primary),2042,quarantine,quarantine,24,0,0
+42 (primary),2042,quarantine,auto-removal,31,1,1
+42 (primary),2042,quarantine,human review,13,1,0
+42 (primary),2042,auto-removal,auto-allow,3,1,0
+42 (primary),2042,auto-removal,soft intervention,2,1,0
+42 (primary),2042,auto-removal,quarantine,20,1,1
+42 (primary),2042,auto-removal,auto-removal,114,0,0
+42 (primary),2042,auto-removal,human review,12,1,1
+42 (primary),2042,human review,auto-allow,49,1,1
+42 (primary),2042,human review,soft intervention,61,1,1
+42 (primary),2042,human review,quarantine,23,1,0
+42 (primary),2042,human review,auto-removal,27,1,1
+42 (primary),2042,human review,human review,196,0,0
+1042,2042,auto-allow,auto-allow,250,0,0
+1042,2042,auto-allow,soft intervention,5,1,0
+1042,2042,auto-allow,quarantine,3,1,1
+1042,2042,auto-allow,auto-removal,1,1,0
+1042,2042,auto-allow,human review,32,1,1
+1042,2042,soft intervention,auto-allow,18,1,0
+1042,2042,soft intervention,soft intervention,56,0,0
+1042,2042,soft intervention,quarantine,5,1,1
+1042,2042,soft intervention,auto-removal,8,1,0
+1042,2042,soft intervention,human review,71,1,1
+1042,2042,quarantine,auto-allow,1,1,1
+1042,2042,quarantine,soft intervention,4,1,1
+1042,2042,quarantine,quarantine,25,0,0
+1042,2042,quarantine,auto-removal,29,1,1
+1042,2042,quarantine,human review,15,1,0
+1042,2042,auto-removal,auto-allow,1,1,0
+1042,2042,auto-removal,soft intervention,2,1,0
+1042,2042,auto-removal,quarantine,19,1,1
+1042,2042,auto-removal,auto-removal,110,0,0
+1042,2042,auto-removal,human review,12,1,1
+1042,2042,human review,auto-allow,50,1,1
+1042,2042,human review,soft intervention,41,1,1
+1042,2042,human review,quarantine,22,1,0
+1042,2042,human review,auto-removal,25,1,1
+1042,2042,human review,human review,191,0,0

@@ -1,0 +1,16 @@
+﻿run,action,cases,wrong_tiers,under_predictions,over_predictions
+42 (primary),auto-allow,303,73,73,0
+42 (primary),soft intervention,114,49,23,26
+42 (primary),quarantine,72,20,0,20
+42 (primary),auto-removal,151,24,0,24
+42 (primary),human review,356,170,84,86
+1042,auto-allow,291,62,62,0
+1042,soft intervention,158,62,28,34
+1042,quarantine,74,25,0,25
+1042,auto-removal,144,20,0,20
+1042,human review,329,181,93,88
+2042,auto-allow,320,75,75,0
+2042,soft intervention,108,46,24,22
+2042,quarantine,74,30,0,30
+2042,auto-removal,173,23,0,23
+2042,human review,321,159,82,77

@@ -1,0 +1,4 @@
+﻿from_run,to_run,changed_actions,prediction_tier_changes,authority_flips,auto_to_human,human_to_auto
+42 (primary),1042,348,171,281,128,153
+42 (primary),2042,370,177,311,139,172
+1042,2042,364,197,292,142,150

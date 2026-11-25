@@ -1,0 +1,4 @@
+﻿run,N,coverage_both,wrong_fixed_policy,wrong_confidence_only,difference_wrong_fixed_minus_confidence,difference_Rpop_percentage_points,both_wrong,fixed_only_wrong,confidence_only_wrong,neither_wrong,discordant_pairs,exact_McNemar_p,paired_bootstrap_95pct_low_pp,paired_bootstrap_95pct_high_pp,confidence_cutoff_has_ties
+42 (primary),996,568,146,133,13,1.3052208835341366,86,60,47,803,107,0.245891314612684,-0.7028112449799196,3.313253012048193,False
+1042,996,593,144,152,-8,-0.8032128514056225,88,56,64,788,120,0.5229909838899945,-2.9116465863453818,1.3052208835341366,False
+2042,996,601,144,132,12,1.2048192771084338,85,59,47,805,106,0.28528442186565817,-0.9036144578313252,3.2128514056224895,False
